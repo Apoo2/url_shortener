@@ -13,7 +13,7 @@ A simple asynchronous URL Shortener service built with Flask, Redis, Celery, and
 ## Setup Instructions
 
 ### 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Apoo2/url_shortener.git
 cd url_shortener
 
 ### 2. Create virtual environment
