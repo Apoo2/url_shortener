@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+marshmallow
+redis
+requests
+celery
